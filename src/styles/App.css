@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+}
+/* src/styles/App.css */
+nav {
+  background-color: #282c34;
+  padding: 10px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav ul li a:hover {
+  color: #ff6347;
+  text-decoration: underline;
+}
+
